@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fae4424.css",
+    "main.js": "/static/js/main.996f2edc.js",
+    "static/media/alpine-4176830_1920.jpg": "/static/media/alpine-4176830_1920.0b430b669246e3a55337.jpg",
+    "static/media/forest-mobile.jpg": "/static/media/forest-mobile.0665bb7f43ca8a002fb0.jpg",
+    "static/media/fishing_tablet.jpg": "/static/media/fishing_tablet.f41e746dd72948baf0ad.jpg",
+    "static/media/hunting.jpg": "/static/media/hunting.ab5b4d6df790bd4c6259.jpg",
+    "static/media/hunting_tablet.jpg": "/static/media/hunting_tablet.1dc6a3fd5d06277fd8f5.jpg",
+    "static/media/bike_tablet.jpg": "/static/media/bike_tablet.99b7a546eb3c53da5606.jpg",
+    "static/media/technology_tablet.jpg": "/static/media/technology_tablet.bffefc7e732784b80344.jpg",
+    "static/media/fishing.jpg": "/static/media/fishing.763bb22e03324feef426.jpg",
+    "static/media/telt_tablet.jpg": "/static/media/telt_tablet.0df8a9a9db106d85385a.jpg",
+    "static/media/telt.jpg": "/static/media/telt.92f9080e7051c2e82d1d.jpg",
+    "static/media/adventure_tablet.jpg": "/static/media/adventure_tablet.ed59c58c0abab0dd3d6b.jpg",
+    "static/media/bike.jpg": "/static/media/bike.e0b4631cd63bf7712096.jpg",
+    "static/media/technology.jpg": "/static/media/technology.f51c7d35d46360ce7136.jpg",
+    "static/media/skateboard_tablet.jpg": "/static/media/skateboard_tablet.7382dc5e37285cf11261.jpg",
+    "static/media/hunting_mobile.jpg": "/static/media/hunting_mobile.53bca3a80790f98ef2e1.jpg",
+    "static/media/adventure.jpg": "/static/media/adventure.736fd92d6773989c03e2.jpg",
+    "static/media/skateboard_mobile.jpg": "/static/media/skateboard_mobile.39eec1dc8797f868966e.jpg",
+    "static/media/fishing_mobile.jpg": "/static/media/fishing_mobile.fee3c3f5070b6e6b54fe.jpg",
+    "static/media/bike_mobile.jpg": "/static/media/bike_mobile.81bb0c7a78aba0fa2d67.jpg",
+    "static/media/technology_mobile.jpg": "/static/media/technology_mobile.fd9d1fb8761d837cfbb5.jpg",
+    "static/media/adventure_mobile.jpg": "/static/media/adventure_mobile.2feb91fc967825cae4cf.jpg",
+    "static/media/telt_mobile.jpg": "/static/media/telt_mobile.9af58caf66be1c1891cf.jpg",
+    "static/media/skateboard.jpg": "/static/media/skateboard.6f5f503a55606f8362ad.jpg",
+    "index.html": "/index.html",
+    "main.4fae4424.css.map": "/static/css/main.4fae4424.css.map",
+    "main.996f2edc.js.map": "/static/js/main.996f2edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fae4424.css",
+    "static/js/main.996f2edc.js"
+  ]
+}
